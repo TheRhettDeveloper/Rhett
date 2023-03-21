@@ -8,11 +8,5 @@ class rhett{
         int intelligence = 13;
         int wisdom = 5;
         int charisma =10;
-        System.out.println("Strength = " +strength);
-        System.out.println("Dexterity = " +dexterity);
-        System.out.println("Constitution = " +constitution);
-        System.out.println("Intelligence = " +intelligence);
-        System.out.println("Wisdom = " +wisdom);
-        System.out.println("Charisma = " +charisma);
     }
 }
