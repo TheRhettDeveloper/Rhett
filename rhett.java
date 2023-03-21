@@ -2,11 +2,11 @@
 class rhett{
 
     public static void main (String args[]){
-        int strength = 10;
-        int dexterity = 10;
+        int strength = 12;
+        int dexterity = 11;
         int constitution = 10;
-        int intelligence = 10;
-        int wisdom = 10;
+        int intelligence = 12;
+        int wisdom = 5;
         int charisma =10;
         System.out.println("Strength = " +strength);
         System.out.println("Dexterity = " +dexterity);
